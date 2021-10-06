@@ -506,4 +506,7 @@
     <string name="monet_engine_title">Wallpaper based theming</string>
     <string name="monet_engine_summary">Use accent and background colors extracted from the current wallpaper</string>
 
+    <!--HavocOS Maintainer -->
+    <string name="havoc_maintainer">Device Maintainer</string>
+
 </resources>
